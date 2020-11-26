@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CandyCartTests$AddToCart" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-26T19:24:07" hostname="SILVER" time="0.12">
+  <properties/>
+  <testcase name="increasesSizeWhenCandyIsAdd()" classname="CandyCartTests$AddToCart" time="0.002"/>
+  <testcase name="throwsExceptionWithIllegalCandyAmount(int)[1]" classname="CandyCartTests$AddToCart" time="0.039"/>
+  <testcase name="throwsExceptionWithIllegalCandyAmount(int)[2]" classname="CandyCartTests$AddToCart" time="0.001"/>
+  <testcase name="throwsExceptionWithIllegalCandyName(String)[1]" classname="CandyCartTests$AddToCart" time="0.001"/>
+  <testcase name="throwsExceptionWithIllegalCandyName(String)[2]" classname="CandyCartTests$AddToCart" time="0.001"/>
+  <testcase name="throwsExceptionWithIllegalCandyName(String)[3]" classname="CandyCartTests$AddToCart" time="0.002"/>
+  <testcase name="throwsExceptionWithIllegalCandyName(String)[4]" classname="CandyCartTests$AddToCart" time="0.003"/>
+  <testcase name="addsToExistingAmountWhenExistingCandyIsAdd()" classname="CandyCartTests$AddToCart" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
